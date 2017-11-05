@@ -6,7 +6,7 @@
 
 - 打砖块
 
-![234](screencast/papapa.gif)
+![234](screencast/breakout.gif)
 
 - 打飞机
 
